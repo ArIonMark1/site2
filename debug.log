@@ -1,0 +1,5 @@
+[0105/134540.321:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0106/130656.381:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0107/130656.434:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0113/202853.565:ERROR:crash_report_database_win.cc(496)] failed to stat report
+[0113/202853.609:ERROR:crash_report_database_win.cc(496)] failed to stat report
